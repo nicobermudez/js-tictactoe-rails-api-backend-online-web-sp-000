@@ -13,7 +13,6 @@ class GamesController < ApplicationController
   def edit
   end
 
-  def body
-    #  to_json: 
+  def show
   end
 end
